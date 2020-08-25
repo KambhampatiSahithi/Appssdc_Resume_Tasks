@@ -1,0 +1,48 @@
+{
+  "basics":{
+  "image":"sahithi.jpg",
+  "name":"sahithikambhampati",
+  "phoneno":"+9381244265",
+  "email":"sahithikambhampati9@gmail.com",
+  "address":"Guntur"
+},
+"Careerobjective":{
+  "info":"To utilize my skills and through that evolve myself professionally for enhancing the growth oforganization"
+},
+"education":[
+  {
+  "degree":"B.Tech",
+  "institute":"VVIT",
+  "data":["2017-2020","90%"]
+},
+{
+  "degree":"Intermedite",
+  "institute":"Sri chaitanya jounior Collge",
+  "data":["2015-2017","97.5%"]
+},
+{
+  "degree":"SSC",
+  "institute":"Z.P.H School",
+  "data":["2015","98%"]
+}
+],
+"skills":[{
+  "title":"Languages",
+  "data":["C","C++","JAVA","Python","FORTRAN","Data Structures"]
+  },
+{
+  "title":"DataBases",
+  "data":["SQL","MySQL"]
+  },
+{
+  "title":"Operating Systems",
+  "data":["Linux","Windows","ubuntu"]
+  }],
+  "achievements":[{
+    "data":"Certified by CDAC (Pune) for Intern Ship on Large Scale Computing, Software Development for Data Analytics ."
+    },
+  {
+    "data":"NPTEL certificate on Python, Java, C++ Programming ."
+    }
+  ]
+}
